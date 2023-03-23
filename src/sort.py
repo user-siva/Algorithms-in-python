@@ -88,4 +88,4 @@ class sorting():
 if __name__ == "__main__":
     abcd = [6, 5, 4, 3, 2, 1]
     detector = sorting(abcd)
-    print(detector.quick_sort())
+    print(detector.bubbleSort())
